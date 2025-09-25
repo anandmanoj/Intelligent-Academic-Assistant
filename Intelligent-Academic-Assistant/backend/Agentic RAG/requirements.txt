@@ -1,0 +1,7 @@
+sentence-transformers
+chromadb
+PyMuPDF
+ollama
+duckduckgo-search 
+requests 
+beautifulsoup4
